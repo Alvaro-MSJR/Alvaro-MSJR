@@ -3,20 +3,28 @@ Alvaro-MSJR/Alvaro-MSJR is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">
-  
-- 👋 Hi, I’m Alvaro Monteiro
-- 👀 I’m interested in IA, Data Sciency and fullstack developer
-- 🌱 I’m currently learning : Prompt Engineer and others staffs about IA and LLM, in parallel python 
-- 💞️ I’m looking to collaborate on project of data science or something like data analysis 
-
-  CRM Consult Siebel e Salesforce
-  
-  Buscando transição de carreira para:
-     Ciência de dados, IA e afins
-     Desenvolvendo FullStack Developer
+<div align='center'>
+<h3 align="left">
+<p></p> <b> - 👋 Olá sou, Alvaro Monteiro </b>
+<p></p>    -   Sou interessadoe aprofundando conhecimentos: IA, Data Sciency e fullstack developer 
+<p></p>     -  Atualmente estou estudando : Prompt Engineer e outros tecnologias ligadas a IA e a LLM, paralelo a isto vejo o ecossistema de desenvolvimento em Python 
+<p></p>     -  Estou procurando: Colaborar em projetos de IA e analise de dados.
 </h3>
+</div>
 
+<div align='center'>
+</h3 align="left">
+<p></p>
+     <p></p> <b>Formação:</b> 
+     <p></p> <p><b>Sou consultor CRM Consult Siebel a mais de 8 anos, passei por varios projetos de telecom 
+	        também conheço Salesforce, porém ainda não trabalhei</b> </p>
+     <p></p> <p> Atualmente estou buscando transição de carreira para:
+     <p></p>     Ciência de dados, IA e afins
+     <p></p>     Desenvolvendo FullStack Developer </p>
+</h3>
+</div>
+
+ 
 <div align='center'>
 
 <div align="center">  
@@ -51,69 +59,18 @@ You can click the Preview link to take a look at your changes.
 
 <!-- YT LIST START -->
 
-[<img src="https://i.ytimg.com/vi/JUF7M8hRbiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBGWBzC3yidy6TCzMlDxTYZbyAeA" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
-&nbsp;&nbsp;
-**[▶️ Como CRIAR UM PROJETO C# no Visual Studio Code | C# DO JEITO MODERNO!](https://www.youtube.com/watch?v=JUF7M8hRbiM)**
-<br /> &nbsp;&nbsp;&nbsp;1 semana atrás
-<img align="center" width="100%" height="0" />
-
-[<img src="https://i.ytimg.com/vi/jcPpJ2tRe2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZYoL0nZTTGUkXeXXN3uBtYy0Xdw" align="left" width="200" />](https://www.youtube.com/watch?v=jcPpJ2tRe2g)
-&nbsp;&nbsp;
-**[▶️ COMO INSTALAR O DOTNET | C# DO JEITO MODERNO! ](https://www.youtube.com/watch?v=jcPpJ2tRe2g)**
-<br /> &nbsp;&nbsp;&nbsp;2 Semanas atrás
-<img align="center" width="100%" height="0" />
-
 <!-- YT LIST END -->
-
-learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.youtube.com/@dotnetsenseidev)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 📌 &nbsp;Pinned Repositories
-
-<table>
-	<thead>
-		<tr>
-			<th colspan="2" width="2000">&nbsp;</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
-      <img src="./.github/assets/icons/angular.webp" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>Angular Playground</h3>
-			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
-			</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-blog">
-      <img src="./.github/assets/documentation.png" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>Angular Blog</h3>
-			<p>An Simple blog with Angular, good pratices for folder structure.</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
 
 <h3>Contact Me</h3>
 <div align="left">
 <p>
-<a href="mailto:felipeaguiar.social@gmail.com">
+<a href="mailto:jr.m.alvaro@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
-<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/@dotnetsenseidev"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p>
+<a href="https://www.linkedin.com/in/alvaro-monteiro-silva-a0a1581a"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
 <details align="left">
