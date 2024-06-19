@@ -3,81 +3,71 @@ Alvaro-MSJR/Alvaro-MSJR is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align='center'>
-<h3 align="left">
-<p></p> <b> - 👋 Olá sou, Alvaro Monteiro </b>
-<p></p>    -   Sou interessadoe aprofundando conhecimentos: IA, Data Sciency e fullstack developer 
-<p></p>     -  Atualmente estou estudando : Prompt Engineer e outros tecnologias ligadas a IA e a LLM, paralelo a isto vejo o ecossistema de desenvolvimento em Python 
-<p></p>     -  Estou procurando: Colaborar em projetos de IA e analise de dados.
-</h3>
-</div>
 
-<div align='center'>
-</h3 align="left">
-<p></p>
-     <p></p> <b>Formação:</b> 
-     <p></p> <p><b>Sou consultor CRM Consult Siebel a mais de 8 anos, passei por varios projetos de telecom 
-	        também conheço Salesforce, porém ainda não trabalhei</b> </p>
-     <p></p> <p> Atualmente estou buscando transição de carreira para:
-     <p></p>     Ciência de dados, IA e afins
-     <p></p>     Desenvolvendo FullStack Developer </p>
-</h3>
-</div>
+# Olá, sou o Álvaro Monteiro ! 👋
 
- 
-<div align='center'>
+## 🚀 Sobre mim
 
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alvaro-MSJR&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-MSJR&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
+Sou um profissional na área de TI que estou buscando transição de carreira.
+<p>Tenho 10 anos de experiência em sistemas CRM ( Siebel, nos últimos 3 anos venho estudando SalesForce).</p>
+<p>Estou buscando atuar na área de ciência de dados. Neste primeiro momento apenas querendo começar.</p>
+<p>Em 2019 terminei uma pós em Ciência de Dados com ênfase em IA, desde então tenho sido um grande entusiata.</p>
+<p>Trabalhei por 12 anos em uma multinacional americana, recentemente sai com o objetivo de atuar no sonho que é a área de Ciência de dados ou IA.</p>
+<p>Este é uma de alguns treinamentos que estou realizando para manter-me atualizado, com o objetivo de conseguir uma nova posição na nas áreas citadas.</p>
 
-</div>
+## Objetivos
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<p>Fazer a transição de carreira.</p>
+<p>Apresentar-me a comunidade e as empresas. </p>
+<p>Buscar um lugar nesta área tão instigante que é IA e Ciência de Dados.</p>
 
-<div><br />
+## 🛠 Em estudo atual
+   <p>BootCamp Santander 2024 Fundamentos de IA para DEV</p>
+   <p>Prompt Engineer </p>
+   <p>IA LLM</p>
+   <p>Python</p>
+   <p>Power BI</p>
+   
+## 🛠 Ferramentas e Linguagens Conhecidas
 
-## &nbsp;My Stack
+<p>Siebel (versão 8 a 23);</p>
+<p>SQL e PL/SQL;</p>
+<p>ShellScript;</p>
+<p>Camunda;</p>
+<p>SalesForce;</p>
+<p>Python;</p>
+<p>Javascript, HTML5, CSS3;</p>
+<p>Git, </p>
+<p>GitHub</p>
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,nextjs,tailwind,aws,git,github,postgres&theme=dark" />
+## Habilidades
 
-## About me
+<p>Bom relacionamento interpessoal</p>
+<p>Facilidade de aprender</p>
+<p>Gosto de trabalhar em equipe</p>
+<p>Gosto de passar o conhecimento</p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .net C# with Angular and NodeJs with React.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
+## Conhecimentos de Gestão e Métodos
+<p>Engenharia de Software</p>
+<p>Cobit</p>
+<p>Itil</p>
+<p>Scrum</p>
+<p>Kanban</p>
+<p>WaterFall</p>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+## 🔗 Vamos nos conectar
 
-## 🎬 &nbsp;My Last Youtube Videos
+[![GitHub](https://img.shields.io/badge/GitHub-290?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Alvaro-MSJR)
 
-<!-- YT LIST START -->
-
-<!-- YT LIST END -->
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=)](https://www.linkedin.com/in/alvaro-monteiro-silva-a0a1581a/)
 
 
-<h3>Contact Me</h3>
-<div align="left">
-<p>
-<a href="mailto:jr.m.alvaro@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/alvaro-monteiro-silva-a0a1581a"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
-</div>
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvaro-MSJR&theme=transparent&bg_color=380&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
-<details align="left">
-  <summary>Credits</summary> 
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-  <br>
-   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
-  <br>
-  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
-</details>
+
+## Minhas Contribuições em projetos acadêmicos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-MSJR&repo=dio-lab-open-source&bg_color=920&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Alvaro-MSJR/dio-lab-open-source)
+
+## Meus projetos Acadêmicos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvaro-MSJR&repo=prompts-recipe-to-create-a-ebook&bg_color=920&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/Alvaro-MSJR/prompts-recipe-to-create-a-ebook)
